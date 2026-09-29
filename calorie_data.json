@@ -1,0 +1,14 @@
+{
+  "profile": {
+    "name": "Rudra Pratrap Singh",
+    "weight": 90.0,
+    "height": 179.0,
+    "age": 19,
+    "gender": "M",
+    "activity": "Moderately active (3-5 days/week)",
+    "bmr": 1929,
+    "tdee": 2990,
+    "target_calories": 2490
+  },
+  "logs": {}
+}
